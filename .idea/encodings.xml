@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/BeanFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/ListableBeanFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/config/AutowireCapableBeanFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/config/ConfigurableListableBeanFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/BeanDefinitionRegistry.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/DefaultListableBeanFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/support/FactoryBeanRegistrySupport.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/xml/DefaultBeanDefinitionDocumentReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-beans/src/main/java/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-core/src/main/java/org/springframework/core/io/InputStreamSource.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-core/src/main/java/org/springframework/core/io/Resource.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-core/src/main/java/org/springframework/util/xml/XmlValidationModeDetector.java" charset="UTF-8" />
+    <file url="PROJECT" charset="ISO-8859-1" />
+  </component>
+</project>
